@@ -1,5 +1,5 @@
 # Launchpad MIDI Analyzer
-# Run this python script in interactive mode with the command: python -i LP_Analyzer
+# Run this python script in interactive mode with the command: python -i LP_Analyzer.py
 
 from pyo import *
 
